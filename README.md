@@ -31,36 +31,13 @@
 
 ---
 
-# 💫 About Me
-class AdityaSharma:
+# About Me
 
-def __init__(self):
+Hi, I'm **Aditya Sharma**.
 
-  self.role = [
-        "Data Analyst",
-        "Machine Learning Engineer",
-        "Python Developer"
-      ]
+I'm passionate about **Data Analytics**, **Machine Learning**, and **Python Development**. I enjoy solving real-world problems using data, building intelligent applications, and continuously expanding my skills in AI, Cloud Computing, and MLOps.
 
-  self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Science",
-            "Deep Learning",
-            "NLP",
-            "MLOps"
-        ]
-
-  self.currently_learning = [
-            "LLMs",
-            "AWS",
-            "Docker",
-            "Kubernetes",
-            "Advanced Machine Learning"
-        ]
-
-  self.goal = "Building AI solutions that solve real-world problems."
-
+I'm always open to collaborating on innovative projects and exploring new technologies.
         
 
 # Connect With Me
@@ -71,7 +48,7 @@ def __init__(self):
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:sharmaditya0011work@gmail.com">
+<a href="mailto:sharmaditya0011work@gmail.com">Email
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
