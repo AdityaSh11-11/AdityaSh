@@ -41,10 +41,6 @@ I'm always open to collaborating on innovative projects and exploring new techno
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 <hr>
-<a href="mailto:sharmaditya0011work@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-<hr>
 <a href="https://github.com/AdityaSh11-11">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
