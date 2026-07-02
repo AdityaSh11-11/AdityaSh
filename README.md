@@ -1,4 +1,4 @@
-<p align="center"> Hello! My Name is Aditya Sharma </p>
+<h1 align="center"> Hello! My Name is Aditya Sharma </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Engineer;Python+Developer;Turning+Data+into+Insights;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -113,12 +113,6 @@ I'm passionate about transforming raw data into meaningful insights and building
 * LinkedIn: https://www.linkedin.com/in/sharma11aditya/
 * Email: sharmaditya0011work@gmail.com
 * GitHub: https://github.com/AdityaSh11-11
-
----
-
-## Quote
-
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 ---
 
