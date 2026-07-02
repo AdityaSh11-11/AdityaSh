@@ -1,4 +1,4 @@
-# Hello! My Name is Aditya Sharma 
+#<p align="center"> Hello! My Name is Aditya Sharma </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Engineer;Python+Developer;Turning+Data+into+Insights;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -62,10 +62,8 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaSh11-11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSh11-11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/AdityaSh11-11?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/AdityaSh11-11?style=for-the-badge)
 
 ---
 
@@ -85,12 +83,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSh11-11&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
+![Snake animation](https://github.com/AdityaSh11-11/AdityaSh11-11/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## Featured Projects
