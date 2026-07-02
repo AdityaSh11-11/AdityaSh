@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Your Name**
+# Hello! My Name is Aditya Sharma**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Engineer;Python+Developer;Turning+Data+into+Insights;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -6,20 +6,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm passionate about transforming raw data into meaningful insights and building intelligent solutions with machine learning.
 
-* 📊 Data Analyst with a passion for storytelling through data
-* 🤖 Machine Learning Engineer focused on real-world AI applications
-* 🐍 Python Developer building scalable and efficient solutions
-* 📈 Interested in Data Science, Deep Learning, NLP, and MLOps
-* 🌱 Currently learning Cloud Deployment, LLMs, and Advanced Machine Learning
-* 💡 I enjoy solving complex business problems using data
+* Data Analyst with a passion for storytelling through data
+* Machine Learning Engineer focused on real-world AI applications
+* Python Developer building scalable and efficient solutions
+* Interested in Data Science, Deep Learning, NLP, and MLOps
+* Currently learning Cloud Deployment, LLMs, and Advanced Machine Learning
+* I enjoy solving complex business problems using data
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -60,7 +60,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -69,7 +69,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
@@ -77,7 +77,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
@@ -85,7 +85,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15" />
@@ -93,18 +93,18 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-* 🤖 Machine Learning Projects
-* 📊 Data Analysis Dashboards
-* 📈 Predictive Analytics
-* 🧠 Deep Learning Models
-* 📉 Business Intelligence Solutions
-* 🐍 Python Automation Scripts
+* Machine Learning Projects
+* Data Analysis Dashboards
+* Predictive Analytics
+* Deep Learning Models
+* Business Intelligence Solutions
+* Python Automation Scripts
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 * ✅ Build impactful Machine Learning applications
 * ✅ Contribute to Open Source
@@ -115,16 +115,15 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* 🌐 Portfolio: https://YOUR_PORTFOLIO
-* 📧 Email: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
-* 🐙 GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://www.linkedin.com/in/sharma11aditya/
+* Email: sharmaditya0011work@gmail.com
+* GitHub: https://github.com/AdityaSh11-11
 
 ---
 
-## 💡 Quote
+## Quote
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
