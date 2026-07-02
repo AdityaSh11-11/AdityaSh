@@ -1,4 +1,4 @@
-# Hello! My Name is Aditya Sharma**
+# Hello! My Name is Aditya Sharma 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Engineer;Python+Developer;Turning+Data+into+Insights;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -63,8 +63,8 @@ I'm passionate about transforming raw data into meaningful insights and building
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaSh11-11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSh11-11E&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AdityaSh11-11E&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME](https://github.com/AdityaSh11-11)&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSh11-11&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSh11-11&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
