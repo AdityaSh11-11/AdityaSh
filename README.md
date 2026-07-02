@@ -1,120 +1,266 @@
-<h1 align="center"> Hello 👋 My Name is Aditya Sharma </h1>
+````markdown
+<!-- ========================================= -->
+<!--              Animated Banner              -->
+<!-- ========================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Engineer;Python+Developer;Always+Learning" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aditya%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer%20%7C%20Python%20Developer&descAlignY=60" />
+</p>
+
+<h1 align="center">Hi 👋 I'm Aditya Sharma</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Machine+Learning+Engineer;Python+Developer;AI+Enthusiast;Building+Intelligent+Solutions;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/AdityaSh11-11">
+<img src="https://komarev.com/ghpvc/?username=AdityaSh11-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/AdityaSh11-11?tab=followers">
+<img src="https://img.shields.io/github/followers/AdityaSh11-11?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/AdityaSh11-11">
+<img src="https://img.shields.io/github/stars/AdityaSh11-11?style=for-the-badge"/>
+
+</a>
+
 </p>
 
 ---
 
-## About Me
+# 💫 About Me
 
-I'm passionate about transforming raw data into meaningful insights and building intelligent solutions with machine learning.
+```python
+class AdityaSharma:
 
-* Data Analyst with a passion for storytelling through data
-* Machine Learning Engineer focused on real-world AI applications
-* Python Developer building scalable and efficient solutions
-* Interested in Data Science, Deep Learning, NLP, and MLOps
-* Currently learning Cloud Deployment, LLMs, and Advanced Machine Learning
-* I enjoy solving complex business problems using data
+    def __init__(self):
 
----
+        self.role = [
+            "Data Analyst",
+            "Machine Learning Engineer",
+            "Python Developer"
+        ]
 
-## Tech Stack
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Deep Learning",
+            "NLP",
+            "MLOps"
+        ]
 
-### Programming Languages
+        self.currently_learning = [
+            "LLMs",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Advanced Machine Learning"
+        ]
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Data Analysis
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-5B8DB8?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly)
-
-### Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
-![XGBoost](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-
-### Data Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=power-bi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+        self.goal = "Building AI solutions that solve real-world problems."
+````
 
 ---
 
-## GitHub Statistics
-
-![GitHub followers](https://img.shields.io/github/followers/AdityaSh11-11?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/AdityaSh11-11?style=for-the-badge)
-
----
-
-## GitHub Streak
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaSh11-11&theme=tokyonight&hide_border=true" />
+
+<a href="https://www.linkedin.com/in/sharma11aditya/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:sharmaditya0011work@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://github.com/AdityaSh11-11">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
 </p>
 
 ---
 
-## Contribution Graph
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSh11-11&theme=tokyo-night&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,mongodb,docker,git,github,linux,vscode,anaconda&perline=6"/>
+
 </p>
 
-![Snake animation](https://github.com/AdityaSh11-11/Aditya-Sharma/blob/output/github-contribution-grid-snake-dark.svg)
+### 📊 Data Analytics
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+* Power BI
+* Tableau
+
+### 🤖 Machine Learning
+
+* Scikit-Learn
+* TensorFlow
+* PyTorch
+* XGBoost
+* LightGBM
+* NLP
+* Deep Learning
 
 ---
 
-## Featured Projects
+# 📊 GitHub Metrics Dashboard
 
-* Machine Learning Projects
-* Data Analysis Dashboards
-* Predictive Analytics
-* Deep Learning Models
-* Business Intelligence Solutions
-* Python Automation Scripts
+<p align="center">
+
+<img src="./github-metrics.svg" width="100%"/>
+
+</p>
+
+> Configure the **lowlighter/metrics** GitHub Action to generate `github-metrics.svg`.
 
 ---
 
-## 2026 Goals
+# 📈 GitHub Statistics
 
-* ✅ Build impactful Machine Learning applications
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaSh11-11&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSh11-11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AdityaSh11-11&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSh11-11&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaSh11-11&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AdityaSh11-11/AdityaSh11-11/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> Requires the Snake GitHub Action.
+
+---
+
+# 📊 WakaTime Statistics
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
+# 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+# 🚀 Featured Projects
+
+| Project                      | Description                     |
+| ---------------------------- | ------------------------------- |
+| 🤖 Machine Learning Projects | Real-world ML implementations   |
+| 📊 Data Analysis Dashboards  | Interactive business dashboards |
+| 📈 Predictive Analytics      | Forecasting & prediction        |
+| 🧠 Deep Learning             | Neural network models           |
+| 📉 Business Intelligence     | Insightful Power BI dashboards  |
+| 🐍 Python Automation         | Productivity & automation tools |
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Become an Expert ML Engineer
+* ✅ Master MLOps
+* ✅ Learn Kubernetes
+* ✅ Learn AWS
+* ✅ Build 20 Production-Level AI Projects
 * ✅ Contribute to Open Source
-* ✅ Master MLOps and Cloud Deployment
-* ✅ Publish Data Science articles
-* ✅ Solve 500+ coding problems
-* ✅ Create production-ready AI projects
+* ✅ Publish Technical Blogs
+* ✅ Participate in Kaggle Competitions
 
 ---
 
-## Connect With Me
+# 💡 Favorite Quote
 
-* LinkedIn: https://www.linkedin.com/in/sharma11aditya/
-* Email: sharmaditya0011work@gmail.com
-* GitHub: https://github.com/AdityaSh11-11
+> *"Without data, you're just another person with an opinion."*
+> **— W. Edwards Deming**
+
+---
+
+# ❤️ Support My Work
+
+<p align="center">
+
+⭐ Star my repositories
+
+🍴 Fork projects you like
+
+🤝 Collaborate on Open Source
+
+💬 Let's build something amazing together
+
+</p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories and following my journey!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
 </p>
+```
