@@ -76,26 +76,6 @@ I'm always open to collaborating on innovative projects and exploring new techno
 
 ---
 
-# GitHub Metrics Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaSh11-11/AdityaSh11-11/main/github-metrics.svg">
-</p>
-
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaSh11-11&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSh11-11&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # GitHub Streak
 
 <p align="center">
@@ -123,7 +103,6 @@ I'm always open to collaborating on innovative projects and exploring new techno
   <img src="https://raw.githubusercontent.com/AdityaSh11-11/AdityaSh11-11/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-> Requires the Snake GitHub Action.
 
 ---
 
