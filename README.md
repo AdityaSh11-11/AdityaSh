@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aditya%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer%20%7C%20Python%20Developer&descAlignY=60" />
 </p>
 
-<p align="center">
+<p>
 
 <a href="https://github.com/AdityaSh11-11">
 <img src="https://komarev.com/ghpvc/?username=AdityaSh11-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
