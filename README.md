@@ -64,7 +64,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaSh11-11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSh11-11E&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSh11-11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaSh11-11E&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AdityaSh11-11&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
