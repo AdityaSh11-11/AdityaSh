@@ -28,9 +28,7 @@
 ---
 
 # About Me
-I'm passionate about **Data Analytics**, **Machine Learning** and **Python Development**. I enjoy solving real-world problems using data, building intelligent applications and continuously expanding my skills in AI, Cloud Computing and MLOps.
-
-I'm always open to collaborating on innovative projects and exploring new technologies.
+Passionate about Data Analytics and Machine Learning, I specialize in extracting meaningful insights from data and developing intelligent solutions using Python, SQL, Power BI, and Machine Learning. I enjoy tackling real-world business challenges through data-driven decision-making, predictive analytics, and visualization. Currently expanding my expertise in AI, Cloud Computing, and MLOps, I am actively seeking opportunities to contribute, collaborate, and grow as a Data Analyst or Machine Learning Engineer.
         
 
 # Connect With Me
